@@ -1,0 +1,15 @@
+[project]
+name = "graphrag-breakdown"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "graphrag>=2.3.0",
+    "ipykernel>=6.29.5",
+    "langchain-core>=0.3.63",
+    "langchain-openai>=0.3.18",
+    "langchain-text-splitters>=0.3.8",
+    "pandas>=2.2.3",
+    "pymupdf>=1.26.0"
+]
