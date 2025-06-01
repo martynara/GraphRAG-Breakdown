@@ -1,0 +1,1525 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="PRNEWS.PL" />
+    <node id="POLAND" />
+    <node id="BOCZO&#323;" />
+    <node id="GENERATION Z" />
+    <node id="GENERATION Y" />
+    <node id="GENERATION X" />
+    <node id="NARODOWY BANK POLSKI" />
+    <node id="ZWI&#260;ZEK BANK&#211;W POLSKICH" />
+    <node id="G&#321;&#211;WNY URZ&#260;D STATYSTYCZNY" />
+    <node id="COVID-19" />
+    <node id="CASHLESS.PL" />
+    <node id="BLIK" />
+    <node id="NBP" />
+    <node id="BEATA &#346;WIECKA" />
+    <node id="BANKI" />
+    <node id="SHAIKH" />
+    <node id="KARJALUOTO" />
+    <node id="THAKUR" />
+    <node id="BARNES, S. J." />
+    <node id="CORBITT, B." />
+    <node id="SUORANTA, M." />
+    <node id="MATTILA, M." />
+    <node id="&#346;WIECKA, B." />
+    <node id="WIELKOPOLSKI BANK KREDYTOWY" />
+    <node id="SANTANDER BANK POLSKA" />
+    <node id="MBANK" />
+    <node id="INTELIGO" />
+    <node id="RAIFFEISEN BANK POLSKA" />
+    <node id="ALIOR BANK" />
+    <node id="BANK MILLENNIUM" />
+    <node id="BZ WBK" />
+    <node id="CITI HANDLOWY" />
+    <node id="PEKAO SA" />
+    <node id="BANK BPH" />
+    <node id="BANK NORDEA" />
+    <node id="ALIOR SYNC" />
+    <node id="ING BANK &#346;L&#260;SKI" />
+    <node id="GETIN BANK" />
+    <node id="EUROBANK" />
+    <node id="BNP PARIBAS" />
+    <node id="POLSKI STANDARD P&#321;ATNO&#346;CI" />
+    <node id="PEOPAY" />
+    <node id="PKO BP" />
+    <node id="IKO" />
+    <node id="BANK ZACHODNI WBK" />
+    <node id="EUROPEAN CENTRAL BANK" />
+    <node id="HARASIM" />
+    <node id="ZARA&#323;SKA" />
+    <node id="ZBOROWSKI" />
+    <node id="POLASIK" />
+    <node id="MACIEJEWSKI" />
+    <node id="HCE" />
+    <node id="GOOGLE PAY" />
+    <node id="APPLE PAY" />
+    <node id="GARMIN PAY" />
+    <node id="FITBIT PAY" />
+    <node id="SWATCH PAY" />
+    <node id="XIAOMI PAY" />
+    <node id="GOOGLE WALLET" />
+    <node id="SWATCHPAY!" />
+    <node id="BANK BPS" />
+    <node id="BANK PEKAO" />
+    <node id="BANK POCZTOWY" />
+    <node id="BO&#346; BANK" />
+    <node id="CREDIT AGRICOLE" />
+    <node id="PKO PB I INTELIGO" />
+    <node id="NEST BANK" />
+    <node id="NOBLE BANK" />
+    <node id="PLUS BANK" />
+    <node id="SP&#211;&#321;DZIELCZA GRUPA BANKOWA" />
+    <node id="TOYOTA BANK" />
+    <node id="AJZEN" />
+    <node id="FISHBEIN" />
+    <node id="TAYLOR" />
+    <node id="TODD" />
+    <node id="DEB" />
+    <node id="LOMO-DAVID" />
+    <node id="GLAVEE-GEO" />
+    <node id="KHASAWNEH" />
+    <node id="TRAN" />
+    <node id="CORNER" />
+    <node id="TECHNOLOGY ACCEPTANCE MODEL" />
+    <node id="DECOMPOSED THEORY OF PLANNED BEHAVIOR" />
+    <node id="ROGERS" />
+    <node id="VENKATESH" />
+    <node id="UTAUT" />
+    <node id="TAM" />
+    <node id="BERRAIES, S." />
+    <node id="BEN YAHIA, K." />
+    <node id="HANNACHI, M." />
+    <node id="OWUSU KWATENG, K." />
+    <node id="OSEI ATIEMO, K." />
+    <node id="APPIAH, C." />
+    <node id="LI&#201;BANA-CABANILLAS, F." />
+    <node id="MU&#209;OZ-LEIVA, F." />
+    <node id="S&#193;NCHEZ-FERN&#193;NDEZ, J." />
+    <node id="CHIU J. L." />
+    <node id="BOOL, N. C." />
+    <node id="CHIU C. L." />
+    <node id="CHAOUALI W." />
+    <node id="SOUIDEN N." />
+    <node id="THUSI PH." />
+    <node id="MADUKU D. K." />
+    <node id="MERHI M." />
+    <node id="HONE K." />
+    <node id="TARHINI A." />
+    <node id="AMEEN N." />
+    <node id="CHAM T." />
+    <node id="CHEAH J." />
+    <node id="CHENG B." />
+    <node id="LIM X. J." />
+    <node id="MI&#280;DZYNARODOWA ORGANIZACJA NORMALIZACYJNA" />
+    <node id="EN ISO 9241-11:1998" />
+    <node id="CRUZ" />
+    <node id="LAFORET" />
+    <node id="LI" />
+    <node id="LAUKKANEN" />
+    <node id="PASANEN" />
+    <node id="SUORANTA" />
+    <node id="MATTILA" />
+    <node id="CHAOUALI" />
+    <node id="EL HEDHLI" />
+    <node id="SOUIDEN" />
+    <node id="MALAQUIAS" />
+    <node id="HWANG" />
+    <node id="KOKSAL" />
+    <node id="OWUSU KWATENG" />
+    <node id="OLIVEIRA" />
+    <node id="BARTOSIK-PURGAT" />
+    <node id="BABY BOOMERS" />
+    <node id="YU" />
+    <node id="MOBILE BANKING" />
+    <node id="FARAH" />
+    <node id="DANYALI" />
+    <node id="BENBASATA" />
+    <node id="BARKI" />
+    <node id="KARL MANNHEIM" />
+    <node id="NORMAN RYDER" />
+    <node id="JOSEPH RENTZ" />
+    <node id="EUROSTAT" />
+    <node id="POLSKA" />
+    <node id="GENERATION A" />
+    <node id="SILENT GENERATION" />
+    <node id="POKOLENIE X" />
+    <node id="POKOLENIE Y" />
+    <node id="NOSOWSKI" />
+    <node id="DEFRATYKA" />
+    <node id="MORAWSKI" />
+    <node id="POKOLENIE Z" />
+    <node id="MILLENNIALS" />
+    <node id="KRAJOWY REJESTR D&#321;UG&#211;W" />
+    <node id="&#346;WIECKA" />
+    <node id="SOLARZ" />
+    <node id="GUS" />
+    <node id="UNIWERSYTET EKONOMICZNY W POZNANIU" />
+    <node id="KATEDRA BADA&#323; RYNKU I US&#321;UG" />
+    <node id="EXCEL" />
+    <node id="STATISTICA 13.3 PL" />
+    <node id="MOBILE BANKING APPLICATIONS" />
+    <node id="MAKROREGION P&#211;&#321;NOCNO-ZACHODNI" />
+    <node id="MAKROREGION P&#211;&#321;NOCNY" />
+    <node id="SANTANDER BANK" />
+    <node id="MOBILE BANKING MARKET IN POLAND" />
+    <node id="ZBP" />
+    <node id="HCE CARDS" />
+    <node id="INTERNET BANKING" />
+    <node id="COVID-19 PANDEMIC" />
+    <node id="TRADITIONAL PAYMENT CARDS" />
+    <node id="ING" />
+    <node id="SANTANDER" />
+    <node id="MILLENNIUM" />
+    <node id="PEKAO" />
+    <node id="ALIOR" />
+    <node id="POCZTOWY" />
+    <node id="PKO PB" />
+    <node id="MINISTRY OF DEVELOPMENT" />
+    <node id="VISA" />
+    <node id="MASTERCARD" />
+    <node id="MINISTRY OF FINANCE" />
+    <node id="POLISH BANK ASSOCIATION" />
+    <node id="POLSKA BEZGOT&#211;WKOWA FOUNDATION" />
+    <node id="MINISTERSTWO FINANS&#211;W" />
+    <node id="PAY-BY-LINK" />
+    <node id="BLIKA" />
+    <node id="MAZOWIECKIE" />
+    <node id="WARSAW" />
+    <node id="MOBILE BANKING APPLICATION" />
+    <node id="DOLNO&#346;L&#260;SKIE" />
+    <node id="LUBUSKIE" />
+    <node id="ZACHODNIOPOMORSKIE" />
+    <node id="WARSZAWSKI STO&#321;ECZNY" />
+    <node id="KLIMONTOWICZ" />
+    <node id="OSLO METHODOLOGY" />
+    <node id="KORENIK" />
+    <node id="EPUP" />
+    <node id="ZUS" />
+    <node id="NFZ" />
+    <node id="RODZINA 500+" />
+    <node id="PSD2" />
+    <node id="BANKS" />
+    <node id="BLUE MEDIA" />
+    <node id="MILLENNIUM BANK" />
+    <node id="BANK POLSKA" />
+    <node id="BANKOWE APLIKACJE MOBILNE" />
+    <node id="BANKOWO&#346;&#262; INTERNETOWA" />
+    <node id="PROFIL ZAUFANY" />
+    <node id="BANKOWA APLIKACJA MOBILNA" />
+    <node id="KANTOR WALUTOWY" />
+    <node id="ZAKUP BILET&#211;W NA PRZEJAZDY KOMUNIKACJ&#260; MIEJSK&#260; I POCI&#260;GAMI" />
+    <node id="SK&#321;ADANIE WNIOSK&#211;W URZ&#280;DOWYCH" />
+    <node id="ZAKUP UBEZPIECZENIA AUTA" />
+    <node id="500+" />
+    <node id="DOBRY START" />
+    <node id="SAVINGS OPTION" />
+    <node id="PUBLIC TRANSPORT TICKETS" />
+    <node id="APLIKACJA BANKOWA" />
+    <node id="KRAJOWA IZBA ROZLICZENIOWA" />
+    <node id="PSP" />
+    <node id="SGB" />
+    <node id="MINISTER OF HEALTH" />
+    <node id="STATE OF EPIDEMIC" />
+    <node id="ZPP" />
+    <node id="AGENCJA ROZWOJU PRZEMYS&#321;U" />
+    <node id="ALLEGRO" />
+    <node id="OLX" />
+    <node id="KANCELARIA PREZESA RADY MINISTR&#211;W" />
+    <node id="MINISTERSTWO FUNDUSZY I POLITYKI REGIONALNEJ" />
+    <node id="MINISTERSTWO ROZWOJU" />
+    <node id="REVOLUT" />
+    <node id="RAIFFEISEN POLBANK" />
+    <node id="BANK PEKAO SA" />
+    <node id="B&#321;ACH" />
+    <node id="CZY&#379;AK" />
+    <node id="GOSPODAROWICZ" />
+    <node id="KOPIOWANIE TO&#379;SAMO&#346;CI" />
+    <node id="PRZEJ&#280;CIE KONTROLI" />
+    <node id="SZKODLIWE OPROGRAMOWANIE" />
+    <node id="ATAK TYPU CZ&#321;OWIEK PO&#346;RODKU" />
+    <node id="WY&#321;UDZANIE" />
+    <node id="PRZEKIEROWANIE" />
+    <node id="PODSZYWANIE SI&#280;" />
+    <node id="BOLIBOK" />
+    <node id="MATRAS-BOLIBOK" />
+    <node id="TRZ&#280;SIENIA ZIEMI" />
+    <node id="BURZA" />
+    <node id="POW&#211;D&#377;" />
+    <node id="BOLIBOK I MATRAS-BOLIBOK" />
+    <node id="BANKI W POLSCE" />
+    <node id="ANDROID" />
+    <node id="IOS" />
+    <node id="KULAS" />
+    <node id="KOWA&#323;SKA" />
+    <node id="PKO BP (IKO)" />
+    <node id="PNP PARIBAS" />
+    <node id="KOMISJA NADZORU FINANSOWEGO" />
+    <node id="USTAWA Z DNIA 29 SIERPNIA 1997 R. PRAWO BANKOWE" />
+    <node id="USTAWA Z DNIA 19 SIERPNIA 2011 R. O US&#321;UGACH P&#321;ATNICZYCH" />
+    <node id="TPP" />
+    <node id="PIS" />
+    <node id="AIS" />
+    <node id="RADA ZWI&#260;ZKU BANK&#211;W POLSKICH" />
+    <node id="KOMITET CYBERBEZPIECZE&#323;STWA BANK&#211;W ZBP" />
+    <node id="ZARZ&#260;D ZBP" />
+    <node id="FINCERT.PL" />
+    <node id="BANKOWO&#346;&#262; MOBILNA" />
+    <node id="OPROGRAMOWANIE ANTYWIRUSOWE" />
+    <node id="ROZWI&#260;ZANIA BIOMETRYCZNE" />
+    <node id="PIN" />
+    <node id="MOBILE BANKING APPLICATION USERS" />
+    <node id="MOBILE BANKING SECURITY" />
+    <node id="GRIMA" />
+    <node id="SWATCHPAY" />
+    <node id="GENERACJA Y" />
+    <node id="&#346;L&#260;SKIE" />
+    <node id="WIELKOPOLSKIE" />
+    <edge source="PRNEWS.PL" target="POLAND">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PRNEWS.PL" target="BOCZO&#323;">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PRNEWS.PL" target="COVID-19">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PRNEWS.PL" target="NBP">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PRNEWS.PL" target="ZWI&#260;ZEK BANK&#211;W POLSKICH">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PRNEWS.PL" target="GUS">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="PRNEWS.PL" target="MOBILE BANKING MARKET IN POLAND">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="PRNEWS.PL" target="BLIK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PRNEWS.PL" target="CASHLESS.PL">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PRNEWS.PL" target="MINISTERSTWO FINANS&#211;W">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POLAND" target="NARODOWY BANK POLSKI">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POLAND" target="HCE">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="POLAND" target="BLIK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLAND" target="GOOGLE PAY">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="POLAND" target="APPLE PAY">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="POLAND" target="GARMIN PAY">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="POLAND" target="FITBIT PAY">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="POLAND" target="SWATCH PAY">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="POLAND" target="XIAOMI PAY">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="POLAND" target="SWATCHPAY!">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="POLAND" target="MBANK">
+      <data key="d0">32.0</data>
+    </edge>
+    <edge source="POLAND" target="BNP PARIBAS">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="POLAND" target="ALIOR BANK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLAND" target="BANK BPS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLAND" target="BANK MILLENNIUM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLAND" target="BANK PEKAO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLAND" target="BANK POCZTOWY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLAND" target="BO&#346; BANK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLAND" target="CITI HANDLOWY">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="POLAND" target="CREDIT AGRICOLE">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="POLAND" target="GETIN BANK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLAND" target="ING BANK &#346;L&#260;SKI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLAND" target="PKO PB I INTELIGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLAND" target="NEST BANK">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="POLAND" target="NOBLE BANK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLAND" target="PLUS BANK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLAND" target="SANTANDER BANK POLSKA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLAND" target="SP&#211;&#321;DZIELCZA GRUPA BANKOWA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLAND" target="TOYOTA BANK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POLAND" target="EUROSTAT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POLAND" target="&#346;WIECKA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="POLAND" target="MOBILE BANKING MARKET IN POLAND">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="POLAND" target="NBP">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="POLAND" target="MOBILE BANKING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POLAND" target="PKO BP">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="POLAND" target="ING">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="POLAND" target="PEKAO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="POLAND" target="SANTANDER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="POLAND" target="MILLENNIUM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="POLAND" target="ALIOR">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="POLAND" target="POCZTOWY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POLAND" target="COVID-19 PANDEMIC">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POLAND" target="COVID-19">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="POLAND" target="GUS">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="POLAND" target="MOBILE BANKING APPLICATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="POLAND" target="STATE OF EPIDEMIC">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="POLAND" target="ZPP">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POLAND" target="SWATCHPAY">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="GENERATION Z" target="GENERATION Y">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="GENERATION Z" target="GENERATION X">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="GENERATION Z" target="POLSKA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GENERATION Z" target="NARODOWY BANK POLSKI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GENERATION Z" target="SOLARZ">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GENERATION Z" target="MOBILE BANKING APPLICATIONS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GENERATION Z" target="BLIK">
+      <data key="d0">30.0</data>
+    </edge>
+    <edge source="GENERATION Z" target="MILLENNIALS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GENERATION Z" target="SAVINGS OPTION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GENERATION Z" target="PUBLIC TRANSPORT TICKETS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GENERATION Z" target="MOBILE BANKING SECURITY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GENERATION Y" target="GENERATION X">
+      <data key="d0">26.0</data>
+    </edge>
+    <edge source="GENERATION Y" target="POLSKA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GENERATION Y" target="NARODOWY BANK POLSKI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GENERATION Y" target="SOLARZ">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GENERATION Y" target="MOBILE BANKING APPLICATIONS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GENERATION Y" target="BLIK">
+      <data key="d0">24.0</data>
+    </edge>
+    <edge source="GENERATION Y" target="MOBILE BANKING SECURITY">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="GENERATION X" target="POLSKA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GENERATION X" target="NARODOWY BANK POLSKI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GENERATION X" target="SOLARZ">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GENERATION X" target="MOBILE BANKING APPLICATIONS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GENERATION X" target="BLIK">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="GENERATION X" target="MILLENNIALS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="GENERATION X" target="PUBLIC TRANSPORT TICKETS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GENERATION X" target="MOBILE BANKING SECURITY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GENERATION X" target="BANKS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GENERATION X" target="MOBILE BANKING">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NARODOWY BANK POLSKI" target="ZWI&#260;ZEK BANK&#211;W POLSKICH">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NARODOWY BANK POLSKI" target="G&#321;&#211;WNY URZ&#260;D STATYSTYCZNY">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NARODOWY BANK POLSKI" target="COVID-19">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NARODOWY BANK POLSKI" target="EUROPEAN CENTRAL BANK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NARODOWY BANK POLSKI" target="HARASIM">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="ZWI&#260;ZEK BANK&#211;W POLSKICH" target="COVID-19">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ZWI&#260;ZEK BANK&#211;W POLSKICH" target="NBP">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="ZWI&#260;ZEK BANK&#211;W POLSKICH" target="GUS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="ZWI&#260;ZEK BANK&#211;W POLSKICH" target="KRAJOWA IZBA ROZLICZENIOWA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ZWI&#260;ZEK BANK&#211;W POLSKICH" target="FINCERT.PL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="G&#321;&#211;WNY URZ&#260;D STATYSTYCZNY" target="COVID-19">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="COVID-19" target="CASHLESS.PL">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="COVID-19" target="NBP">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="COVID-19" target="GUS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="COVID-19" target="INTERNET BANKING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="COVID-19" target="BLIKA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="COVID-19" target="HCE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="COVID-19" target="BLIK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="COVID-19" target="GETIN BANK">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="COVID-19" target="PKO BP (IKO)">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="COVID-19" target="MBANK">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="COVID-19" target="ING">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="COVID-19" target="PEKAO">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="COVID-19" target="SANTANDER">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="COVID-19" target="MILLENNIUM">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="COVID-19" target="PNP PARIBAS">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="COVID-19" target="ALIOR BANK">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="COVID-19" target="CREDIT AGRICOLE">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="COVID-19" target="CITI HANDLOWY">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="COVID-19" target="SGB">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="COVID-19" target="NEST BANK">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="COVID-19" target="BANK POCZTOWY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CASHLESS.PL" target="GUS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BLIK" target="NBP">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="BLIK" target="BEATA &#346;WIECKA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BLIK" target="HCE">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BLIK" target="POLSKI STANDARD P&#321;ATNO&#346;CI">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="BLIK" target="MOBILE BANKING APPLICATIONS">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="BLIK" target="COVID-19 PANDEMIC">
+      <data key="d0">33.0</data>
+    </edge>
+    <edge source="BLIK" target="HCE CARDS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BLIK" target="MOBILE BANKING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BLIK" target="PKO BP">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="BLIK" target="MBANK">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="BLIK" target="ING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BLIK" target="PAY-BY-LINK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BLIK" target="POLSKA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="BLIK" target="KRAJOWA IZBA ROZLICZENIOWA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BLIK" target="ALIOR BANK">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="BLIK" target="BANK MILLENNIUM">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="BLIK" target="BZ WBK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BLIK" target="ING BANK &#346;L&#260;SKI">
+      <data key="d0">22.0</data>
+    </edge>
+    <edge source="BLIK" target="PSP">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="BLIK" target="MASTERCARD">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BLIK" target="SANTANDER BANK POLSKA">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="BLIK" target="MILLENNIUM BANK">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="BLIK" target="SANTANDER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BLIK" target="MILLENNIUM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BLIK" target="GETIN BANK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BLIK" target="BNP PARIBAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BLIK" target="CREDIT AGRICOLE">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="BLIK" target="PEKAO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BLIK" target="NOBLE BANK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BLIK" target="NEST BANK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BLIK" target="BANK POCZTOWY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BLIK" target="CITI HANDLOWY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BLIK" target="BO&#346; BANK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BLIK" target="SGB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BLIK" target="GOOGLE PAY">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="BLIK" target="APPLE PAY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BLIK" target="REVOLUT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BLIK" target="SP&#211;&#321;DZIELCZA GRUPA BANKOWA">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BLIK" target="RAIFFEISEN POLBANK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BLIK" target="BANK PEKAO SA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BLIK" target="MILLENNIALS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BLIK" target="B&#321;ACH">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="BLIK" target="KLIMONTOWICZ">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="BLIK" target="CZY&#379;AK">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="BLIK" target="GOSPODAROWICZ">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NBP" target="HARASIM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NBP" target="GUS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NBP" target="MOBILE BANKING MARKET IN POLAND">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="NBP" target="MINISTERSTWO FINANS&#211;W">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BANKI" target="SHAIKH">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BANKI" target="KARJALUOTO">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BANKI" target="THAKUR">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BANKI" target="BARNES, S. J.">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BANKI" target="CORBITT, B.">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BANKI" target="SUORANTA, M.">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BANKI" target="MATTILA, M.">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BANKI" target="&#346;WIECKA, B.">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="WIELKOPOLSKI BANK KREDYTOWY" target="SANTANDER BANK POLSKA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="WIELKOPOLSKI BANK KREDYTOWY" target="MBANK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="SANTANDER BANK POLSKA" target="MOBILE BANKING APPLICATIONS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MBANK" target="POLSKI STANDARD P&#321;ATNO&#346;CI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MBANK" target="SANTANDER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MBANK" target="ING">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MBANK" target="MILLENNIUM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MBANK" target="MOBILE BANKING APPLICATIONS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MBANK" target="ING BANK &#346;L&#260;SKI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTELIGO" target="RAIFFEISEN BANK POLSKA">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="RAIFFEISEN BANK POLSKA" target="ALIOR BANK">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="ALIOR BANK" target="POLSKI STANDARD P&#321;ATNO&#346;CI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ALIOR BANK" target="BNP PARIBAS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="BANK MILLENNIUM" target="BZ WBK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BANK MILLENNIUM" target="POLSKI STANDARD P&#321;ATNO&#346;CI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CITI HANDLOWY" target="PEKAO SA">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CITI HANDLOWY" target="NEST BANK">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CITI HANDLOWY" target="PKO PB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PEKAO SA" target="PEOPAY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PEKAO SA" target="PKO PB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PEKAO SA" target="NEST BANK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BANK BPH" target="BANK NORDEA">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="ALIOR SYNC" target="ING BANK &#346;L&#260;SKI">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="ING BANK &#346;L&#260;SKI" target="POLSKI STANDARD P&#321;ATNO&#346;CI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ING BANK &#346;L&#260;SKI" target="SANTANDER BANK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ING BANK &#346;L&#260;SKI" target="MOBILE BANKING APPLICATIONS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="GETIN BANK" target="EUROBANK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GETIN BANK" target="BNP PARIBAS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BNP PARIBAS" target="MOBILE BANKING APPLICATIONS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="BNP PARIBAS" target="SANTANDER">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="POLSKI STANDARD P&#321;ATNO&#346;CI" target="PKO BP">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLSKI STANDARD P&#321;ATNO&#346;CI" target="BANK ZACHODNI WBK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PKO BP" target="IKO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PKO BP" target="PEKAO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PKO BP" target="MOBILE BANKING APPLICATIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BANK ZACHODNI WBK" target="SANTANDER BANK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HARASIM" target="KLIMONTOWICZ">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HARASIM" target="&#346;WIECKA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HARASIM" target="GRIMA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ZARA&#323;SKA" target="ZBOROWSKI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POLASIK" target="MACIEJEWSKI">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HCE" target="APPLE PAY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HCE" target="GOOGLE PAY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HCE" target="GARMIN PAY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HCE" target="FITBIT PAY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GOOGLE PAY" target="GOOGLE WALLET">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GOOGLE PAY" target="APPLE PAY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="APPLE PAY" target="GARMIN PAY">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="APPLE PAY" target="FITBIT PAY">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="APPLE PAY" target="HCE CARDS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GARMIN PAY" target="FITBIT PAY">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="GARMIN PAY" target="SWATCHPAY!">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FITBIT PAY" target="SWATCHPAY!">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SWATCH PAY" target="XIAOMI PAY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BANK POCZTOWY" target="CREDIT AGRICOLE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NEST BANK" target="PKO PB">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="AJZEN" target="FISHBEIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AJZEN" target="TECHNOLOGY ACCEPTANCE MODEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AJZEN" target="DECOMPOSED THEORY OF PLANNED BEHAVIOR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FISHBEIN" target="TECHNOLOGY ACCEPTANCE MODEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TAYLOR" target="TODD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TAYLOR" target="DECOMPOSED THEORY OF PLANNED BEHAVIOR">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TODD" target="DECOMPOSED THEORY OF PLANNED BEHAVIOR">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DEB" target="LOMO-DAVID">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GLAVEE-GEO" target="KHASAWNEH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="TRAN" target="CORNER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="DECOMPOSED THEORY OF PLANNED BEHAVIOR" target="ROGERS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="VENKATESH" target="UTAUT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="UTAUT" target="TAM">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TAM" target="OLIVEIRA">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BERRAIES, S." target="BEN YAHIA, K.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BERRAIES, S." target="HANNACHI, M.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BEN YAHIA, K." target="HANNACHI, M.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="OWUSU KWATENG, K." target="OSEI ATIEMO, K.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="OWUSU KWATENG, K." target="APPIAH, C.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="OSEI ATIEMO, K." target="APPIAH, C.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LI&#201;BANA-CABANILLAS, F." target="MU&#209;OZ-LEIVA, F.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LI&#201;BANA-CABANILLAS, F." target="S&#193;NCHEZ-FERN&#193;NDEZ, J.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MU&#209;OZ-LEIVA, F." target="S&#193;NCHEZ-FERN&#193;NDEZ, J.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHIU J. L." target="BOOL, N. C.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHIU J. L." target="CHIU C. L.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BOOL, N. C." target="CHIU C. L.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHAOUALI W." target="SOUIDEN N.">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="THUSI PH." target="MADUKU D. K.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MERHI M." target="HONE K.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MERHI M." target="TARHINI A.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MERHI M." target="AMEEN N.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HONE K." target="TARHINI A.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HONE K." target="AMEEN N.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TARHINI A." target="AMEEN N.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHAM T." target="CHEAH J.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHAM T." target="CHENG B.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHAM T." target="LIM X. J.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHEAH J." target="CHENG B.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHEAH J." target="LIM X. J.">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHENG B." target="LIM X. J.">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MI&#280;DZYNARODOWA ORGANIZACJA NORMALIZACYJNA" target="EN ISO 9241-11:1998">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CRUZ" target="LAFORET">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CRUZ" target="LI">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="CRUZ" target="LAUKKANEN">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="LAFORET" target="LI">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="LAFORET" target="LAUKKANEN">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="LI" target="LAUKKANEN">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LAUKKANEN" target="PASANEN">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="LAUKKANEN" target="MOBILE BANKING">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SUORANTA" target="MATTILA">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="CHAOUALI" target="EL HEDHLI">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="CHAOUALI" target="SOUIDEN">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="SOUIDEN" target="MOBILE BANKING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MALAQUIAS" target="HWANG">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="KOKSAL" target="OWUSU KWATENG">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="OLIVEIRA" target="MOBILE BANKING">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="BARTOSIK-PURGAT" target="BABY BOOMERS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BABY BOOMERS" target="POLSKA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="YU" target="MOBILE BANKING">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MOBILE BANKING" target="FARAH">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MOBILE BANKING" target="DANYALI">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MOBILE BANKING" target="BENBASATA">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="MOBILE BANKING" target="BARKI">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="MOBILE BANKING" target="BANKS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="KARL MANNHEIM" target="NORMAN RYDER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="KARL MANNHEIM" target="JOSEPH RENTZ">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="EUROSTAT" target="POLSKA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POLSKA" target="GENERATION A">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="POLSKA" target="SILENT GENERATION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="POLSKA" target="UNIWERSYTET EKONOMICZNY W POZNANIU">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="POLSKA" target="DOLNO&#346;L&#260;SKIE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="POLSKA" target="MAZOWIECKIE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="POLSKA" target="&#346;L&#260;SKIE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="POLSKA" target="WIELKOPOLSKIE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="POKOLENIE X" target="POKOLENIE Y">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="POKOLENIE X" target="POKOLENIE Z">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="POKOLENIE X" target="APLIKACJA BANKOWA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="POKOLENIE X" target="500+">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="POKOLENIE X" target="GENERACJA Y">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="POKOLENIE Y" target="NOSOWSKI">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="POKOLENIE Y" target="DEFRATYKA">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="POKOLENIE Y" target="MORAWSKI">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="POKOLENIE Y" target="POKOLENIE Z">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="POKOLENIE Y" target="APLIKACJA BANKOWA">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="POKOLENIE Y" target="500+">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="POKOLENIE Z" target="MILLENNIALS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="POKOLENIE Z" target="KRAJOWY REJESTR D&#321;UG&#211;W">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POKOLENIE Z" target="APLIKACJA BANKOWA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="POKOLENIE Z" target="500+">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POKOLENIE Z" target="GENERACJA Y">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="MILLENNIALS" target="SAVINGS OPTION">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MILLENNIALS" target="PUBLIC TRANSPORT TICKETS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="&#346;WIECKA" target="GRIMA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GUS" target="STATISTICA 13.3 PL">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="UNIWERSYTET EKONOMICZNY W POZNANIU" target="KATEDRA BADA&#323; RYNKU I US&#321;UG">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="EXCEL" target="STATISTICA 13.3 PL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MOBILE BANKING APPLICATIONS" target="BLUE MEDIA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MOBILE BANKING APPLICATIONS" target="PEKAO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MOBILE BANKING APPLICATIONS" target="MILLENNIUM BANK">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MAKROREGION P&#211;&#321;NOCNO-ZACHODNI" target="MAKROREGION P&#211;&#321;NOCNY">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="MOBILE BANKING MARKET IN POLAND" target="ZBP">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HCE CARDS" target="COVID-19 PANDEMIC">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="COVID-19 PANDEMIC" target="TRADITIONAL PAYMENT CARDS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="COVID-19 PANDEMIC" target="MINISTRY OF DEVELOPMENT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="COVID-19 PANDEMIC" target="VISA">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="COVID-19 PANDEMIC" target="MASTERCARD">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="COVID-19 PANDEMIC" target="PAY-BY-LINK">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="COVID-19 PANDEMIC" target="STATE OF EPIDEMIC">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ING" target="SANTANDER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ING" target="MILLENNIUM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SANTANDER" target="MILLENNIUM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MINISTRY OF FINANCE" target="POLISH BANK ASSOCIATION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MINISTRY OF FINANCE" target="POLSKA BEZGOT&#211;WKOWA FOUNDATION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="POLISH BANK ASSOCIATION" target="POLSKA BEZGOT&#211;WKOWA FOUNDATION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MAZOWIECKIE" target="WARSAW">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MOBILE BANKING APPLICATION" target="DOLNO&#346;L&#260;SKIE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MOBILE BANKING APPLICATION" target="LUBUSKIE">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="MOBILE BANKING APPLICATION" target="ZACHODNIOPOMORSKIE">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="MOBILE BANKING APPLICATION" target="WARSZAWSKI STO&#321;ECZNY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="OSLO METHODOLOGY" target="KORENIK">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="EPUP" target="ZUS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="EPUP" target="NFZ">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ZUS" target="RODZINA 500+">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PSD2" target="BANKS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PSD2" target="KULAS">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="PSD2" target="KOWA&#323;SKA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PSD2" target="KOMISJA NADZORU FINANSOWEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PSD2" target="USTAWA Z DNIA 19 SIERPNIA 2011 R. O US&#321;UGACH P&#321;ATNICZYCH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PSD2" target="TPP">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PSD2" target="PIS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PSD2" target="AIS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BANKS" target="MOBILE BANKING APPLICATION USERS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BANKS" target="MOBILE BANKING SECURITY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MILLENNIUM BANK" target="BANK POLSKA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BANKOWE APLIKACJE MOBILNE" target="BANKOWO&#346;&#262; INTERNETOWA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PROFIL ZAUFANY" target="BANKOWA APLIKACJA MOBILNA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BANKOWA APLIKACJA MOBILNA" target="KANTOR WALUTOWY">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="BANKOWA APLIKACJA MOBILNA" target="ZAKUP BILET&#211;W NA PRZEJAZDY KOMUNIKACJ&#260; MIEJSK&#260; I POCI&#260;GAMI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BANKOWA APLIKACJA MOBILNA" target="SK&#321;ADANIE WNIOSK&#211;W URZ&#280;DOWYCH">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="BANKOWA APLIKACJA MOBILNA" target="ZAKUP UBEZPIECZENIA AUTA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="500+" target="DOBRY START">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MINISTER OF HEALTH" target="STATE OF EPIDEMIC">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AGENCJA ROZWOJU PRZEMYS&#321;U" target="ALLEGRO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AGENCJA ROZWOJU PRZEMYS&#321;U" target="OLX">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AGENCJA ROZWOJU PRZEMYS&#321;U" target="KANCELARIA PREZESA RADY MINISTR&#211;W">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="AGENCJA ROZWOJU PRZEMYS&#321;U" target="MINISTERSTWO FUNDUSZY I POLITYKI REGIONALNEJ">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="AGENCJA ROZWOJU PRZEMYS&#321;U" target="MINISTERSTWO ROZWOJU">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="GOSPODAROWICZ" target="KOPIOWANIE TO&#379;SAMO&#346;CI">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GOSPODAROWICZ" target="PRZEJ&#280;CIE KONTROLI">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GOSPODAROWICZ" target="SZKODLIWE OPROGRAMOWANIE">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GOSPODAROWICZ" target="ATAK TYPU CZ&#321;OWIEK PO&#346;RODKU">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GOSPODAROWICZ" target="WY&#321;UDZANIE">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GOSPODAROWICZ" target="PRZEKIEROWANIE">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GOSPODAROWICZ" target="PODSZYWANIE SI&#280;">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GOSPODAROWICZ" target="BANKI W POLSCE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="KOPIOWANIE TO&#379;SAMO&#346;CI" target="BOLIBOK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="KOPIOWANIE TO&#379;SAMO&#346;CI" target="MATRAS-BOLIBOK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PRZEJ&#280;CIE KONTROLI" target="BOLIBOK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PRZEJ&#280;CIE KONTROLI" target="MATRAS-BOLIBOK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="SZKODLIWE OPROGRAMOWANIE" target="BOLIBOK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="SZKODLIWE OPROGRAMOWANIE" target="MATRAS-BOLIBOK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="SZKODLIWE OPROGRAMOWANIE" target="TRZ&#280;SIENIA ZIEMI">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="SZKODLIWE OPROGRAMOWANIE" target="BURZA">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="SZKODLIWE OPROGRAMOWANIE" target="POW&#211;D&#377;">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ATAK TYPU CZ&#321;OWIEK PO&#346;RODKU" target="BOLIBOK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="ATAK TYPU CZ&#321;OWIEK PO&#346;RODKU" target="MATRAS-BOLIBOK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="WY&#321;UDZANIE" target="BOLIBOK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="WY&#321;UDZANIE" target="MATRAS-BOLIBOK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PRZEKIEROWANIE" target="BOLIBOK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PRZEKIEROWANIE" target="MATRAS-BOLIBOK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PODSZYWANIE SI&#280;" target="BOLIBOK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PODSZYWANIE SI&#280;" target="MATRAS-BOLIBOK">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BOLIBOK I MATRAS-BOLIBOK" target="BANKI W POLSCE">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BANKI W POLSCE" target="ANDROID">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BANKI W POLSCE" target="IOS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="KOMISJA NADZORU FINANSOWEGO" target="USTAWA Z DNIA 29 SIERPNIA 1997 R. PRAWO BANKOWE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="KOMISJA NADZORU FINANSOWEGO" target="USTAWA Z DNIA 19 SIERPNIA 2011 R. O US&#321;UGACH P&#321;ATNICZYCH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RADA ZWI&#260;ZKU BANK&#211;W POLSKICH" target="KOMITET CYBERBEZPIECZE&#323;STWA BANK&#211;W ZBP">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ZARZ&#260;D ZBP" target="FINCERT.PL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BANKOWO&#346;&#262; MOBILNA" target="OPROGRAMOWANIE ANTYWIRUSOWE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BANKOWO&#346;&#262; MOBILNA" target="ROZWI&#260;ZANIA BIOMETRYCZNE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BANKOWO&#346;&#262; MOBILNA" target="PIN">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MOBILE BANKING APPLICATION USERS" target="MOBILE BANKING SECURITY">
+      <data key="d0">1.0</data>
+    </edge>
+  </graph>
+</graphml>
